@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prerana-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prerana-maurya" height="30" width="40" /></a>
 <a href="https://hashnode.com/@prerana-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prerana-maurya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devops dive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devops dive" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXyGADI5GzASxYa9dK8G7bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devops dive" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prerana_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prerana_maurya" height="30" width="40" /></a>
 </p>
 
