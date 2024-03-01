@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prerana Maurya</h1>
 <h3 align="center">I am enthusiastic devops fresher well versed in devops and cloud including analysis coding, automation, version control and deployment .</h3>
 
-<img align="right alt="DevOps" width='400' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiculty.com%2Fdevops-certification-course-marathahalli%2F&psig=AOvVaw2v8rsuMjb3LVIjFrxGjgm-&ust=1709360199076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCODy1Y210oQDFQAAAAAdAAAAABCQAg">
+<img align="right" alt="DevOps" width='400' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiculty.com%2Fdevops-certification-course-marathahalli%2F&psig=AOvVaw2v8rsuMjb3LVIjFrxGjgm-&ust=1709360199076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCODy1Y210oQDFQAAAAAdAAAAABCQAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerana-mauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="prerana-mauryaa" /> </p>
 
